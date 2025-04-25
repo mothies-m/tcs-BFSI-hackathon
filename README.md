@@ -33,4 +33,4 @@ Step 3: Run the program
 
 ## 📚 References
 
-- <a href="https://colab.research.google.com/drive/1woSHfXaKZNPP-z0Bac8uKjffSGKMF1o0?usp=sharing" target="_blank">Credit Risk Prediction - Google Colab Notebook</a>
+- <a href="https://www.kaggle.com/code/rizr09/credit-risk-prediction" target="_blank">Credit Risk Prediction</a>
