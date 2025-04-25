@@ -1,3 +1,4 @@
+![image](/assets/app_screenshot.PNG)
 # 🔐 Credit Risk Prediction App
 
 Welcome to the **Credit Risk Prediction App**, a machine learning-powered Streamlit application that predicts the likelihood of credit default based on user financial and demographic data.
